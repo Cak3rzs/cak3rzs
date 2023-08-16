@@ -1,4 +1,4 @@
-### Olá! Sou Edy Borges Fernandes
+Sou Edy Borges Fernandes
 
 - 🔭Atualmente estou buscando trabalho, tanto na area de front-end como na full-stack.
 - 🌱 Estudando JAVA e Estrutura de Dados
