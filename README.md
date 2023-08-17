@@ -6,7 +6,7 @@ Sou Edy Borges Fernandes
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/cak3rzs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cak3rzs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cak3rzs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cak3rzs&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
