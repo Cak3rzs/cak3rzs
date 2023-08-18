@@ -1,9 +1,9 @@
 Sou Edy Borges Fernandes
 
 - 🔭Atualmente estou buscando trabalho, tanto na area de front-end como na full-stack.
-- 🌱 Estudando JAVA, Estrutura de Dados e Ciência de Dados com Pythob
+- 🌱 Estudando JAVA, Estrutura de Dados e Ciência de Dados com Python.
 - 💬 Contate-me no Email: edyborges534@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele.  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cak3rzs&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
