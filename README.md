@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Atualmente estou buscando trabalho, tanto na area de front-end como na full-stack.<br>🌱 Estudando JAVA; Estrutura de Dados em C++; Ciências de Dados com Python.<br>💬 Contate-me no Email: edyborges534@gmail.com<br>😄 Pronouns: ele/dele.
+🔭Atualmente estou buscando trabalho, sou um programador back-end.<br>🌱 Estudando JAVA; Estrutura de Dados em C++; Ciências de Dados com Python.<br>💬 Contate-me no Email: edyborges534@gmail.com<br>😄 Pronouns: ele/dele.
  
 
 # 💻 Tech Stack:
