@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Atualmente estou buscando trabalho, sou um programador back-end.<br>🌱 Estudando Ciências de Dados com Python.<br>💬 Contate-me no Email: edyborges534@gmail.com<br>😄 Pronouns: ele/dele.
+🔭Deenvolvedor junior II.<br>🌱 C# | .Net | Python | SqlServer | AzureDevops <br>💬 Contate-me no Email: edyborges534@gmail.com<br>😄 Pronouns: ele/dele.
  
 
 # 💻 Tech Stack:
