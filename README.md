@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Deenvolvedor junior II.<br>🌱 C# | .Net | Python | SqlServer | AzureDevops <br>💬 Contate-me no Email: edyborges534@gmail.com<br>😄 Pronouns: ele/dele.
+🔭Desenvolvedor junior II.<br>🌱 C# | .Net | Python | SqlServer | AzureDevops <br>💬 Contate-me no Email: edyborges534@gmail.com<br>😄 Pronouns: ele/dele.
  
 
 # 💻 Tech Stack:
